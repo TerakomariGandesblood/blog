@@ -4,6 +4,7 @@ theme = ["github.com/D-Sketon/hugo-theme-reimu"]
 
 languageCode = "zh-CN"
 defaultContentLanguage = "zh-CN"
+
 [languages]
 [languages.zh-CN]
 languageName = "简体中文"

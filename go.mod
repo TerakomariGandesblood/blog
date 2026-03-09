@@ -1,5 +1,5 @@
 module github.com/TerakomariGandesblood/blog
 
-go 1.25.0
+go 1.26.1
 
-require github.com/D-Sketon/hugo-theme-reimu v0.15.1 // indirect
+require github.com/D-Sketon/hugo-theme-reimu v0.15.2 // indirect

@@ -443,7 +443,7 @@ algolia_search:
   enable: true
   appID: 4FN8HT7GVL
   apiKey: 035da54693ec70b85db2b6cc44bd44dd
-  indexName: Terakomari's blog
+  indexName: blog
   hits:
     per_page: 10
 

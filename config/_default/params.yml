@@ -17,7 +17,6 @@ menu:
   # - name: friend
   #   url: "friend"
   #   icon:
-
 # friend links
 friends:
   shuffle: false # whether to shuffle the friend links
@@ -90,7 +89,6 @@ open_graph:
     #google_plus: <g+:profile_link>
     #fb_admins: <fb:admin_id>
     #fb_app_id: <fb:app_id>
-
 # Content
 excerpt_link: Read More
 
@@ -247,7 +245,6 @@ font:
     # - Ubuntu Mono
     # - Source Code Pro
     # - JetBrains Mono
-
 # Local FallBack Font
 local_font:
   article:
@@ -624,7 +621,6 @@ sponsor:
     #   src: "sponsor/alipay.jpg"
     # - name: 微信
     #   src: "sponsor/wechat.png"
-
 # Share
 share:
   # - facebook
@@ -635,7 +631,6 @@ share:
   # - weibo
   # - qq
   # - weixin
-
 # show categories card on home page
 home_categories:
   enable: false

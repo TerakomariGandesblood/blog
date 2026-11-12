@@ -1,0 +1,10 @@
+{
+	"files": {
+		"includes": ["**", "!static"]
+	},
+	"vcs": {
+		"enabled": true,
+		"clientKind": "git",
+		"useIgnoreFile": true
+	}
+}
